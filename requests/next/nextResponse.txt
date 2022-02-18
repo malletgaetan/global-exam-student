@@ -1,0 +1,23 @@
+cache-control: no-cache, private
+cf-cache-status: DYNAMIC
+cf-ray: 6df8cded49ea1043-MRS
+content-security-policy: frame-ancestors 'self'
+content-type: text/html; charset=UTF-8
+date: Fri, 18 Feb 2022 16:59:11 GMT
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+location: https://exam.global-exam.com/training/activity/20192511/result
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=uK%2BOrnaWgg846zQ6xSjB2R3Biwk6RuhvbLKaeJWlGVCx3cexK0m8Owjimzj0ud9GQzizzd%2Bw4z7T%2BVvD2mUPcaFTGDfJvBx%2FU1m80XwSJs1q8OtGgwb%2BpIDfwHQ2fV9d%2BmQQTusCktRZSuhzBkZ3jBTQ"}],"group":"cf-nel","max_age":604800}
+server: cloudflare
+set-cookie: XSRF-TOKEN-PROD=eyJpdiI6IjgvSmI3cGEzTC9saUdRa1VrQ01yQ1E9PSIsInZhbHVlIjoiNkUyeUNOdlRpV0QvT05ObnZzc2w4MXhFWjJPUGxvdll0dUVzYzRBaHNtNTZMMDE5dmdZNUJKY2ZBZWRxZUl3Qm8ycDExNmdDd29tRmlzZE1wRWFkcHRmOGdYMVV5b3FpOW9pN0JyRW0wNUQ5anJidUtaUUpJQ0g5TE04bUFnNWIiLCJtYWMiOiI0ODc2OGIzNDVlZmUxYmNhMTc5OWY4ZTlkZmQzMzMyNDg1NDEzZjljZjI0ZDE3MjZmMDY3NDRkNmFjZGI3YjNkIiwidGFnIjoiIn0%3D; expires=Fri, 18-Feb-2022 20:59:10 GMT; Max-Age=14399; path=/; domain=.global-exam.com; secure; samesite=none
+set-cookie: global_exam_prod_session=eyJpdiI6Imx3YmFSL0w5am8vTHB6OHZZa3R6YVE9PSIsInZhbHVlIjoiQkNiQU82ZUtDaUhZZGh1Y0VORVpMaTNOMmZvTHlyN0xrM1pHLzE4N1lQM0I3T0tuUnlLVDlJMi9yZE9pTHRMdldhN0RhbGNRSURTS2ZDRVhGYXdGUlJrKzJCZm80WHRaS1NqditkNlR1U2dVQ3I4cEx3b2tZeHlpR3FXcWpsUG0iLCJtYWMiOiJmY2FiNzU4NmFiNzlmZjZlYWVjNmNmNmRiZWQ5OTcxOTY4YWNiZDFhNzc2OTQ2ZTM2NDAwODc4YTExYjYwNmU1IiwidGFnIjoiIn0%3D; expires=Fri, 18-Feb-2022 20:59:10 GMT; Max-Age=14399; path=/; domain=.global-exam.com; secure; httponly; samesite=none
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+via: 1.1 f3f7e6934448cbf91206245bc22cd080.cloudfront.net (CloudFront)
+x-amz-apigw-id: Nv1-xE--iGYFyAw=
+x-amz-cf-id: K0pjGTAfereb3Y0TdBT3oRr6nfF_aij80JgEZkFi2OnBh4PKMbgh8A==
+x-amz-cf-pop: MRS52-P1
+x-amzn-remapped-date: Fri, 18 Feb 2022 16:59:10 GMT
+x-amzn-requestid: 95685cee-47e4-4303-bbb2-63ba96880f88
+x-amzn-trace-id: Root=1-620fd05e-48dd39b5649a99a076a9053b;Sampled=0
+x-cache: Miss from cloudfront
+x-content-type-options: nosniff

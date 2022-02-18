@@ -1,0 +1,1433 @@
+{
+    "component": "activity\/training-mode\/pages\/content",
+    "props": {
+        "debugVars": null,
+        "auth": {
+            "user": {
+                "id": 1711283,
+                "email": "297172@ynov",
+                "user_role_code": "USER",
+                "first_name": null,
+                "last_name": null,
+                "full_name": "Ga\u00ebtan Mallet",
+                "user_meta": {
+                    "language_code": "fr",
+                    "country_code": null,
+                    "is_subscribed_to_email": false,
+                    "has_tour": null,
+                    "classroom_ref": null
+                },
+                "user_privacy": {
+                    "first_name": "Ga\u00ebtan",
+                    "last_name": "Mallet",
+                    "gender": null,
+                    "phone_number": null
+                },
+                "organizations_count": 1,
+                "is_confirmed": true,
+                "is_log_as": false,
+                "is_logged_with_social_provider": false
+            },
+            "organization": {
+                "id": 1007,
+                "name": "Ynov - Si\u00e8ge social",
+                "is_b2b": true,
+                "is_b2c": false,
+                "is_exam_white_label": false,
+                "is_premium": true,
+                "is_demo": false,
+                "is_freemium": false,
+                "is_gar": false,
+                "demo_remaining_days": -1
+            }
+        },
+        "flash": {
+            "success": "Vous avez repris une activit\u00e9 !"
+        },
+        "content": {
+            "overview": {
+                "has_library_content": true,
+                "mode_count": 4,
+                "exercise_count": 0,
+                "exam_mock_count": 0,
+                "available_exam_count": 0,
+                "assessment_count": 8,
+                "skill_study_sheet_count": 390,
+                "video_count": 0
+            },
+            "container": {
+                "id": 1633,
+                "container_type_code": "ASSESSMENT",
+                "container_master_code": "TOEIC",
+                "name": "YNOV Aix Tests TOEIC 21\/22",
+                "content_name": "TOEIC",
+                "language_code": "en",
+                "meta": {
+                    "content_name": "TOEIC"
+                },
+                "user_stats": [],
+                "has_exam_mode": false,
+                "container_master": {
+                    "code": "TOEIC",
+                    "name": "TOEIC",
+                    "meta": {
+                        "max_score": 990,
+                        "score_step": 5,
+                        "content_name": "TOEIC",
+                        "training_count": 200,
+                        "progression_points": 140,
+                        "certification_count": 5
+                    }
+                },
+                "translations": {
+                    "slug": "ynov-aix-tests-toeic-2122",
+                    "title": "YNOV Aix - Tests TOEIC 21\/22"
+                }
+            },
+            "containers": [
+                {
+                    "id": 1633,
+                    "container_type_code": "ASSESSMENT",
+                    "container_master_code": "TOEIC",
+                    "name": "YNOV Aix Tests TOEIC 21\/22",
+                    "content_name": "TOEIC",
+                    "language_code": "en",
+                    "meta": {
+                        "content_name": "TOEIC"
+                    },
+                    "user_stats": [],
+                    "has_exam_mode": false,
+                    "container_master": {
+                        "code": "TOEIC",
+                        "name": "TOEIC",
+                        "meta": {
+                            "max_score": 990,
+                            "score_step": 5,
+                            "content_name": "TOEIC",
+                            "training_count": 200,
+                            "progression_points": 140,
+                            "certification_count": 5
+                        }
+                    },
+                    "translations": {
+                        "slug": "ynov-aix-tests-toeic-2122",
+                        "title": "YNOV Aix - Tests TOEIC 21\/22"
+                    }
+                },
+                {
+                    "id": 1631,
+                    "container_type_code": "CUSTOM",
+                    "container_master_code": "TOEIC",
+                    "name": "YNOV TOEIC 2021\/2022",
+                    "content_name": "TOEIC",
+                    "language_code": "en",
+                    "meta": {
+                        "max_score": "990",
+                        "content_name": "TOEIC",
+                        "training_count": 0,
+                        "certification_count": 0
+                    },
+                    "user_stats": [],
+                    "has_exam_mode": true,
+                    "container_master": {
+                        "code": "TOEIC",
+                        "name": "TOEIC",
+                        "meta": {
+                            "max_score": 990,
+                            "score_step": 5,
+                            "content_name": "TOEIC",
+                            "training_count": 200,
+                            "progression_points": 140,
+                            "certification_count": 5
+                        }
+                    },
+                    "translations": {
+                        "slug": "ynov-toeic-20212022",
+                        "title": "YNOV TOEIC 2021\/2022"
+                    }
+                }
+            ],
+            "latest_containers": {
+                "en": [
+                    {
+                        "id": 1633,
+                        "container_type_code": "ASSESSMENT",
+                        "container_master_code": "TOEIC",
+                        "name": "YNOV Aix Tests TOEIC 21\/22",
+                        "content_name": "TOEIC",
+                        "language_code": "en",
+                        "meta": {
+                            "content_name": "TOEIC"
+                        },
+                        "user_stats": [],
+                        "has_exam_mode": false,
+                        "translations": {
+                            "slug": "ynov-aix-tests-toeic-2122",
+                            "title": "YNOV Aix - Tests TOEIC 21\/22"
+                        }
+                    }
+                ]
+            },
+            "containers_en_grouped": {
+                "TOEIC": [
+                    {
+                        "id": 1631,
+                        "container_type_code": "CUSTOM",
+                        "container_master_code": "TOEIC",
+                        "name": "YNOV TOEIC 2021\/2022",
+                        "content_name": "TOEIC",
+                        "language_code": "en",
+                        "meta": {
+                            "max_score": "990",
+                            "content_name": "TOEIC",
+                            "training_count": 0,
+                            "certification_count": 0
+                        },
+                        "user_stats": [],
+                        "has_exam_mode": true,
+                        "container_master": {
+                            "code": "TOEIC",
+                            "name": "TOEIC",
+                            "meta": {
+                                "max_score": 990,
+                                "score_step": 5,
+                                "content_name": "TOEIC",
+                                "training_count": 200,
+                                "progression_points": 140,
+                                "certification_count": 5
+                            }
+                        },
+                        "translations": {
+                            "slug": "ynov-toeic-20212022",
+                            "title": "YNOV TOEIC 2021\/2022"
+                        }
+                    },
+                    {
+                        "id": 1633,
+                        "container_type_code": "ASSESSMENT",
+                        "container_master_code": "TOEIC",
+                        "name": "YNOV Aix Tests TOEIC 21\/22",
+                        "content_name": "TOEIC",
+                        "language_code": "en",
+                        "meta": {
+                            "content_name": "TOEIC"
+                        },
+                        "user_stats": [],
+                        "has_exam_mode": false,
+                        "container_master": {
+                            "code": "TOEIC",
+                            "name": "TOEIC",
+                            "meta": {
+                                "max_score": 990,
+                                "score_step": 5,
+                                "content_name": "TOEIC",
+                                "training_count": 200,
+                                "progression_points": 140,
+                                "certification_count": 5
+                            }
+                        },
+                        "translations": {
+                            "slug": "ynov-aix-tests-toeic-2122",
+                            "title": "YNOV Aix - Tests TOEIC 21\/22"
+                        }
+                    }
+                ],
+                "TOEFL": [],
+                "IELTS": [],
+                "Linguaskill": [],
+                "Cambridge": [],
+                "Languagecert": [],
+                "BRIGHT": [],
+                "Pipplet": [],
+                "showMore": false
+            }
+        },
+        "meta": {
+            "page_title": "training\/activity\/20192511\/content\/10286",
+            "page_url": "https:\/\/exam.global-exam.com\/training\/activity\/20192511\/content\/10286",
+            "page_path": "training\/activity\/20192511\/content\/10286",
+            "current_route_name": "view.user-activity.training::show",
+            "is_auth": true,
+            "auth_url": "https:\/\/auth.global-exam.com",
+            "be_url": "https:\/\/business.global-exam.com",
+            "general_url": "https:\/\/general.global-exam.com",
+            "vi_url": "https:\/\/www.global-exam.com",
+            "terms_url": "https:\/\/www.global-exam.com\/fr\/terms",
+            "privacy_url": "https:\/\/www.global-exam.com\/fr\/privacy",
+            "blog_url": "https:\/\/www.global-exam.com\/blog\/fr",
+            "faq_url": "https:\/\/support.global-exam.com\/hc\/fr\/categories\/360000235594-GlobalExam-pour-les-utilisateurs-",
+            "data_layer": [
+                {
+                    "user_id": 1711283,
+                    "client_type": "B2B",
+                    "user_language": "fr",
+                    "user_type": "customer",
+                    "exam_name": "TOEIC",
+                    "organization_id": "1007",
+                    "is_subscribed_to_email": false,
+                    "is_be_customer": false,
+                    "is_exam_customer": true,
+                    "is_general_customer": false,
+                    "user_email": "297172@ynov",
+                    "user_plan": null,
+                    "nb_days": -231
+                },
+                {
+                    "event": "course_resumed"
+                }
+            ],
+            "is_embedded": false,
+            "content": {
+                "has_user_planning": true,
+                "has_user_planning_done": false,
+                "user_planning_id": 445602,
+                "is_full_assessment": false
+            }
+        },
+        "style": {
+            "logos": {
+                "color": "https:\/\/content.globalexam.cloud\/exam\/assets\/img\/logos\/logo.svg",
+                "favicon": "https:\/\/content.globalexam.cloud\/exam\/assets\/img\/favicon\/favicon.png"
+            },
+            "is_exam_white_label": false
+        },
+        "languages": {
+            "current_language": "fr",
+            "available_site_languages": [
+                {
+                    "code": "fr",
+                    "name": "Fran\u00e7ais"
+                },
+                {
+                    "code": "en",
+                    "name": "English"
+                },
+                {
+                    "code": "zh",
+                    "name": "\u4e2d\u6587"
+                },
+                {
+                    "code": "es",
+                    "name": "Espa\u00f1ol"
+                },
+                {
+                    "code": "it",
+                    "name": "Italiano"
+                },
+                {
+                    "code": "pt",
+                    "name": "Portugu\u00eas"
+                },
+                {
+                    "code": "de",
+                    "name": "Deutsch"
+                }
+            ],
+            "global_translations": {
+                "fr.user-activity.training.show.0": "user-activity\/training\/show",
+                "en.user-activity.training.show.0": "user-activity\/training\/show",
+                "fr.layout.navbar.administration": "Acc\u00e9der \u00e0 l'espace d'administration",
+                "fr.layout.navbar.blog": "Blog",
+                "fr.layout.navbar.boost_career": "Boostez votre carri\u00e8re avec le Business English",
+                "fr.layout.navbar.business": "Business",
+                "fr.layout.navbar.change_org": "Changer d'organisation",
+                "fr.layout.navbar.choose_container": "Quel test voulez-vous pr\u00e9parer ?",
+                "fr.layout.navbar.current_exam": "Je m'entra\u00eene au :current_exam_name",
+                "fr.layout.navbar.general": "General",
+                "fr.layout.navbar.go_to_be": "Acc\u00e9der \u00e0 l'espace Business",
+                "fr.layout.navbar.go_to_general": "Acc\u00e9der \u00e0 l'espace G\u00e9n\u00e9ral",
+                "fr.layout.navbar.home": "Accueil",
+                "fr.layout.navbar.progress": "Je progresse",
+                "fr.layout.navbar.language_site": "Langue du site",
+                "fr.layout.navbar.language_de": "Allemand",
+                "fr.layout.navbar.language_en": "Anglais",
+                "fr.layout.navbar.language_es": "Espagnol",
+                "fr.layout.navbar.language_fr": "Fran\u00e7ais",
+                "fr.layout.navbar.language_zh": "Chinois",
+                "fr.layout.navbar.library": "Biblioth\u00e8que",
+                "fr.layout.navbar.logout": "D\u00e9connexion",
+                "fr.layout.navbar.my_account": "Mon compte",
+                "fr.layout.navbar.settings": "Param\u00e8tres",
+                "fr.layout.navbar.support": "Aide & FAQ",
+                "fr.layout.navbar.stats": "Statistiques",
+                "fr.layout.navbar.planning": "Parcours",
+                "fr.layout.navbar.prepare_exam": "Pr\u00e9parer votre examen",
+                "fr.layout.navbar.show_more": "Voir plus",
+                "fr.layout.navbar.tour": "Visite guid\u00e9e",
+                "fr.layout.navbar.view_gdpr": "Voir la RGPD",
+                "fr.layout.navbar.view_terms": "Voir les conditions g\u00e9n\u00e9rales",
+                "fr.layout.navbar.view_legal": "Voir les mentions l\u00e9gales",
+                "fr.layout.navbar.help": "Aide",
+                "en.layout.navbar.administration": "Go to the administration area",
+                "en.layout.navbar.blog": "Blog",
+                "en.layout.navbar.boost_career": "Give your career a boost with Business English",
+                "en.layout.navbar.business": "Business",
+                "en.layout.navbar.change_org": "Change organisation",
+                "en.layout.navbar.choose_container": "Which test do you want to prepare for?",
+                "en.layout.navbar.current_exam": "Prepare for the :current_exam_name",
+                "en.layout.navbar.general": "General",
+                "en.layout.navbar.go_to_be": "Access the Business area",
+                "en.layout.navbar.go_to_general": "Access the General area",
+                "en.layout.navbar.home": "Home",
+                "en.layout.navbar.language_de": "German",
+                "en.layout.navbar.language_en": "English",
+                "en.layout.navbar.language_es": "Spanish",
+                "en.layout.navbar.language_fr": "French",
+                "en.layout.navbar.language_site": "Site language",
+                "en.layout.navbar.language_zh": "Chinese",
+                "en.layout.navbar.library": "Library",
+                "en.layout.navbar.logout": "Log out",
+                "en.layout.navbar.my_account": "My account",
+                "en.layout.navbar.planning": "Study programme",
+                "en.layout.navbar.progress": "Progress",
+                "en.layout.navbar.prepare_exam": "Prepare for your exam",
+                "en.layout.navbar.settings": "Settings",
+                "en.layout.navbar.stats": "Statistics",
+                "en.layout.navbar.show_more": "Show more",
+                "en.layout.navbar.support": "Help and FAQ",
+                "en.layout.navbar.tour": "Guided tour",
+                "en.layout.navbar.view_gdpr": "View Data Session Control",
+                "en.layout.navbar.view_legal": "View Legal Mentions",
+                "en.layout.navbar.view_terms": "View Terms and Conditions",
+                "en.layout.navbar.help": "Help",
+                "fr.validation.accepted": "Le champ :attribute doit \u00eatre accept\u00e9.",
+                "fr.validation.active_url": "Le champ :attribute n'est pas une URL valide.",
+                "fr.validation.after": "Le champ :attribute doit \u00eatre une date post\u00e9rieure au :date.",
+                "fr.validation.after_or_equal": "Le champ :attribute doit \u00eatre une date post\u00e9rieure ou \u00e9gale au :date.",
+                "fr.validation.alpha": "Le champ :attribute doit contenir uniquement des lettres.",
+                "fr.validation.alpha_dash": "Le champ :attribute doit contenir uniquement des lettres, des chiffres et des tirets.",
+                "fr.validation.alpha_num": "Le champ :attribute doit contenir uniquement des chiffres et des lettres.",
+                "fr.validation.array": "Le champ :attribute doit \u00eatre un tableau.",
+                "fr.validation.before": "Le champ :attribute doit \u00eatre une date ant\u00e9rieure au :date.",
+                "fr.validation.before_or_equal": "Le champ :attribute doit \u00eatre une date ant\u00e9rieure ou \u00e9gale au :date.",
+                "fr.validation.between": {
+                    "numeric": "La valeur de :attribute doit \u00eatre comprise entre :min et :max.",
+                    "file": "La taille du fichier de :attribute doit \u00eatre comprise entre :min et :max kilo-octets.",
+                    "string": "Le texte :attribute doit contenir entre :min et :max caract\u00e8res.",
+                    "array": "Le tableau :attribute doit contenir entre :min et :max \u00e9l\u00e9ments."
+                },
+                "fr.validation.boolean": "Le champ :attribute doit \u00eatre vrai ou faux.",
+                "fr.validation.confirmed": "Le champ de confirmation :attribute ne correspond pas.",
+                "fr.validation.date": "Le champ :attribute n'est pas une date valide.",
+                "fr.validation.date_equals": "Le champ :attribute doit \u00eatre une date \u00e9gale \u00e0 :date.",
+                "fr.validation.date_format": "Le champ :attribute ne correspond pas au format :format.",
+                "fr.validation.different": "Les champs :attribute et :other doivent \u00eatre diff\u00e9rents.",
+                "fr.validation.digits": "Le champ :attribute doit contenir :digits chiffres.",
+                "fr.validation.digits_between": "Le champ :attribute doit contenir entre :min et :max chiffres.",
+                "fr.validation.dimensions": "La taille de l'image :attribute n'est pas conforme.",
+                "fr.validation.distinct": "Le champ :attribute a une valeur en double.",
+                "fr.validation.email": "Le champ :attribute doit \u00eatre une adresse email valide.",
+                "fr.validation.exists": "Le champ :attribute s\u00e9lectionn\u00e9 est invalide.",
+                "fr.validation.file": "Le champ :attribute doit \u00eatre un fichier.",
+                "fr.validation.filled": "Le champ :attribute doit avoir une valeur.",
+                "fr.validation.gt": {
+                    "numeric": "La valeur de :attribute doit \u00eatre sup\u00e9rieure \u00e0 :value.",
+                    "file": "La taille du fichier de :attribute doit \u00eatre sup\u00e9rieure \u00e0 :value kilo-octets.",
+                    "string": "Le texte :attribute doit contenir plus de :value caract\u00e8res.",
+                    "array": "Le tableau :attribute doit contenir plus de :value \u00e9l\u00e9ments."
+                },
+                "fr.validation.gte": {
+                    "numeric": "La valeur de :attribute doit \u00eatre sup\u00e9rieure ou \u00e9gale \u00e0 :value.",
+                    "file": "La taille du fichier de :attribute doit \u00eatre sup\u00e9rieure ou \u00e9gale \u00e0 :value kilo-octets.",
+                    "string": "Le texte :attribute doit contenir au moins :value caract\u00e8res.",
+                    "array": "Le tableau :attribute doit contenir au moins :value \u00e9l\u00e9ments."
+                },
+                "fr.validation.image": "Le champ :attribute doit \u00eatre une image.",
+                "fr.validation.in": "Le champ :attribute est invalide.",
+                "fr.validation.in_array": "Le champ :attribute n'existe pas dans :other.",
+                "fr.validation.integer": "Le champ :attribute doit \u00eatre un entier.",
+                "fr.validation.ip": "Le champ :attribute doit \u00eatre une adresse IP valide.",
+                "fr.validation.ipv4": "Le champ :attribute doit \u00eatre une adresse IPv4 valide.",
+                "fr.validation.ipv6": "Le champ :attribute doit \u00eatre une adresse IPv6 valide.",
+                "fr.validation.json": "Le champ :attribute doit \u00eatre un document JSON valide.",
+                "fr.validation.lt": {
+                    "numeric": "La valeur de :attribute doit \u00eatre inf\u00e9rieure \u00e0 :value.",
+                    "file": "La taille du fichier de :attribute doit \u00eatre inf\u00e9rieure \u00e0 :value kilo-octets.",
+                    "string": "Le texte :attribute doit contenir moins de :value caract\u00e8res.",
+                    "array": "Le tableau :attribute doit contenir moins de :value \u00e9l\u00e9ments."
+                },
+                "fr.validation.lte": {
+                    "numeric": "La valeur de :attribute doit \u00eatre inf\u00e9rieure ou \u00e9gale \u00e0 :value.",
+                    "file": "La taille du fichier de :attribute doit \u00eatre inf\u00e9rieure ou \u00e9gale \u00e0 :value kilo-octets.",
+                    "string": "Le texte :attribute doit contenir au plus :value caract\u00e8res.",
+                    "array": "Le tableau :attribute doit contenir au plus :value \u00e9l\u00e9ments."
+                },
+                "fr.validation.max": {
+                    "numeric": "La valeur de :attribute ne peut \u00eatre sup\u00e9rieure \u00e0 :max.",
+                    "file": "La taille du fichier de :attribute ne peut pas d\u00e9passer :max kilo-octets.",
+                    "string": "Le texte de :attribute ne peut contenir plus de :max caract\u00e8res.",
+                    "array": "Le tableau :attribute ne peut contenir plus de :max \u00e9l\u00e9ments."
+                },
+                "fr.validation.mimes": "Le champ :attribute doit \u00eatre un fichier de type : :values.",
+                "fr.validation.mimetypes": "Le champ :attribute doit \u00eatre un fichier de type : :values.",
+                "fr.validation.min": {
+                    "numeric": "La valeur de :attribute doit \u00eatre sup\u00e9rieure ou \u00e9gale \u00e0 :min.",
+                    "file": "La taille du fichier de :attribute doit \u00eatre sup\u00e9rieure \u00e0 :min kilo-octets.",
+                    "string": "Le texte :attribute doit contenir au moins :min caract\u00e8res.",
+                    "array": "Le tableau :attribute doit contenir au moins :min \u00e9l\u00e9ments."
+                },
+                "fr.validation.not_in": "Le champ :attribute s\u00e9lectionn\u00e9 n'est pas valide.",
+                "fr.validation.not_regex": "Le format du champ :attribute n'est pas valide.",
+                "fr.validation.numeric": "Le champ :attribute doit contenir un nombre.",
+                "fr.validation.old_password": "Le champ :attribute n'est pas valide.",
+                "fr.validation.phone": "Le format de num\u00e9ro de t\u00e9l\u00e9phone que vous avez indiqu\u00e9 n'est pas valide.",
+                "fr.validation.present": "Le champ :attribute doit \u00eatre pr\u00e9sent.",
+                "fr.validation.regex": "Le format du champ :attribute est invalide.",
+                "fr.validation.required": "Le champ :attribute est obligatoire.",
+                "fr.validation.required_at_least_one": "Au moins un champ est requis.",
+                "fr.validation.required_if": "Le champ :attribute est obligatoire quand la valeur de :other est :value.",
+                "fr.validation.required_unless": "Le champ :attribute est obligatoire sauf si :other est :values.",
+                "fr.validation.required_with": "Le champ :attribute est obligatoire quand :values est pr\u00e9sent.",
+                "fr.validation.required_with_all": "Le champ :attribute est obligatoire quand :values sont pr\u00e9sents.",
+                "fr.validation.required_without": "Le champ :attribute est obligatoire quand :values n'est pas pr\u00e9sent.",
+                "fr.validation.required_without_all": "Le champ :attribute est requis quand aucun de :values n'est pr\u00e9sent.",
+                "fr.validation.same": "Les champs :attribute et :other doivent \u00eatre identiques.",
+                "fr.validation.size": {
+                    "numeric": "La valeur de :attribute doit \u00eatre :size.",
+                    "file": "La taille du fichier de :attribute doit \u00eatre de :size kilo-octets.",
+                    "string": "Le texte de :attribute doit contenir :size caract\u00e8res.",
+                    "array": "Le tableau :attribute doit contenir :size \u00e9l\u00e9ments."
+                },
+                "fr.validation.starts_with": "Le champ :attribute doit commencer avec une des valeurs suivantes : :values",
+                "fr.validation.string": "Le champ :attribute doit \u00eatre une cha\u00eene de caract\u00e8res.",
+                "fr.validation.timezone": "Le champ :attribute doit \u00eatre un fuseau horaire valide.",
+                "fr.validation.unique": "La valeur du champ :attribute est d\u00e9j\u00e0 utilis\u00e9e.",
+                "fr.validation.uploaded": "Le fichier du champ :attribute n'a pu \u00eatre t\u00e9l\u00e9vers\u00e9.",
+                "fr.validation.url": "Le format de l'URL de :attribute n'est pas valide.",
+                "fr.validation.uuid": "Le champ :attribute doit \u00eatre un UUID valide",
+                "fr.validation.custom": {
+                    "attribute-name": {
+                        "rule-name": "custom-message"
+                    }
+                },
+                "fr.validation.attributes": {
+                    "name": "nom",
+                    "privacy.last": "nom",
+                    "username": "nom d'utilisateur",
+                    "email": "adresse email",
+                    "first_name": "pr\u00e9nom",
+                    "privacy.first": "pr\u00e9nom",
+                    "last_name": "nom",
+                    "password": "mot de passe",
+                    "password_confirmation": "confirmation du mot de passe",
+                    "city": "ville",
+                    "country": "pays",
+                    "address": "adresse",
+                    "phone": "t\u00e9l\u00e9phone",
+                    "mobile": "portable",
+                    "age": "\u00e2ge",
+                    "sex": "sexe",
+                    "gender": "genre",
+                    "day": "jour",
+                    "month": "mois",
+                    "year": "ann\u00e9e",
+                    "hour": "heure",
+                    "minute": "minute",
+                    "second": "seconde",
+                    "title": "titre",
+                    "content": "contenu",
+                    "description": "description",
+                    "excerpt": "extrait",
+                    "date": "date",
+                    "time": "heure",
+                    "available": "disponible",
+                    "size": "taille",
+                    "user_privacy.phone_number": "t\u00e9l\u00e9phone"
+                },
+                "en.validation.accepted": "The :attribute must be accepted.",
+                "en.validation.active_url": "The :attribute is not a valid URL.",
+                "en.validation.after": "The :attribute must be a date after :date.",
+                "en.validation.after_or_equal": "The :attribute must be a date after or equal to :date.",
+                "en.validation.alpha": "The :attribute may only contain letters.",
+                "en.validation.alpha_dash": "The :attribute may only contain letters, numbers, dashes and underscores.",
+                "en.validation.alpha_num": "The :attribute may only contain letters and numbers.",
+                "en.validation.array": "The :attribute must be an array.",
+                "en.validation.before": "The :attribute must be a date before :date.",
+                "en.validation.before_or_equal": "The :attribute must be a date before or equal to :date.",
+                "en.validation.between": {
+                    "numeric": "The :attribute must be between :min and :max.",
+                    "file": "The :attribute must be between :min and :max kilobytes.",
+                    "string": "The :attribute must be between :min and :max characters.",
+                    "array": "The :attribute must have between :min and :max items."
+                },
+                "en.validation.boolean": "The :attribute field must be true or false.",
+                "en.validation.confirmed": "The :attribute confirmation does not match.",
+                "en.validation.date": "The :attribute is not a valid date.",
+                "en.validation.date_equals": "The :attribute must be a date equal to :date.",
+                "en.validation.date_format": "The :attribute does not match the format :format.",
+                "en.validation.different": "The :attribute and :other must be different.",
+                "en.validation.digits": "The :attribute must be :digits digits.",
+                "en.validation.digits_between": "The :attribute must be between :min and :max digits.",
+                "en.validation.dimensions": "The :attribute has invalid image dimensions.",
+                "en.validation.distinct": "The :attribute field has a duplicate value.",
+                "en.validation.email": "The :attribute must be a valid email address.",
+                "en.validation.ends_with": "The :attribute must end with one of the following: :values.",
+                "en.validation.exists": "The selected :attribute is invalid.",
+                "en.validation.file": "The :attribute must be a file.",
+                "en.validation.filled": "The :attribute field must have a value.",
+                "en.validation.gt": {
+                    "numeric": "The :attribute must be greater than :value.",
+                    "file": "The :attribute must be greater than :value kilobytes.",
+                    "string": "The :attribute must be greater than :value characters.",
+                    "array": "The :attribute must have more than :value items."
+                },
+                "en.validation.gte": {
+                    "numeric": "The :attribute must be greater than or equal :value.",
+                    "file": "The :attribute must be greater than or equal :value kilobytes.",
+                    "string": "The :attribute must be greater than or equal :value characters.",
+                    "array": "The :attribute must have :value items or more."
+                },
+                "en.validation.image": "The :attribute must be an image.",
+                "en.validation.in": "The selected :attribute is invalid.",
+                "en.validation.in_array": "The :attribute field does not exist in :other.",
+                "en.validation.integer": "The :attribute must be an integer.",
+                "en.validation.ip": "The :attribute must be a valid IP address.",
+                "en.validation.ipv4": "The :attribute must be a valid IPv4 address.",
+                "en.validation.ipv6": "The :attribute must be a valid IPv6 address.",
+                "en.validation.json": "The :attribute must be a valid JSON string.",
+                "en.validation.lt": {
+                    "numeric": "The :attribute must be less than :value.",
+                    "file": "The :attribute must be less than :value kilobytes.",
+                    "string": "The :attribute must be less than :value characters.",
+                    "array": "The :attribute must have less than :value items."
+                },
+                "en.validation.lte": {
+                    "numeric": "The :attribute must be less than or equal :value.",
+                    "file": "The :attribute must be less than or equal :value kilobytes.",
+                    "string": "The :attribute must be less than or equal :value characters.",
+                    "array": "The :attribute must not have more than :value items."
+                },
+                "en.validation.max": {
+                    "numeric": "The :attribute may not be greater than :max.",
+                    "file": "The :attribute may not be greater than :max kilobytes.",
+                    "string": "The :attribute may not be greater than :max characters.",
+                    "array": "The :attribute may not have more than :max items."
+                },
+                "en.validation.mimes": "The :attribute must be a file of type: :values.",
+                "en.validation.mimetypes": "The :attribute must be a file of type: :values.",
+                "en.validation.min": {
+                    "numeric": "The :attribute must be at least :min.",
+                    "file": "The :attribute must be at least :min kilobytes.",
+                    "string": "The :attribute must be at least :min characters.",
+                    "array": "The :attribute must have at least :min items."
+                },
+                "en.validation.not_in": "The selected :attribute is invalid.",
+                "en.validation.not_regex": "The :attribute format is invalid.",
+                "en.validation.numeric": "The :attribute must be a number.",
+                "en.validation.password": "The password is incorrect.",
+                "en.validation.phone": "The :attribute field contains an invalid number.",
+                "en.validation.present": "The :attribute field must be present.",
+                "en.validation.regex": "The :attribute format is invalid.",
+                "en.validation.required": "The :attribute field is required.",
+                "en.validation.required_if": "The :attribute field is required when :other is :value.",
+                "en.validation.required_unless": "The :attribute field is required unless :other is in :values.",
+                "en.validation.required_with": "The :attribute field is required when :values is present.",
+                "en.validation.required_with_all": "The :attribute field is required when :values are present.",
+                "en.validation.required_without": "The :attribute field is required when :values is not present.",
+                "en.validation.required_without_all": "The :attribute field is required when none of :values are present.",
+                "en.validation.same": "The :attribute and :other must match.",
+                "en.validation.size": {
+                    "numeric": "The :attribute must be :size.",
+                    "file": "The :attribute must be :size kilobytes.",
+                    "string": "The :attribute must be :size characters.",
+                    "array": "The :attribute must contain :size items."
+                },
+                "en.validation.starts_with": "The :attribute must start with one of the following: :values.",
+                "en.validation.string": "The :attribute must be a string.",
+                "en.validation.timezone": "The :attribute must be a valid zone.",
+                "en.validation.unique": "The :attribute has already been taken.",
+                "en.validation.uploaded": "The :attribute failed to upload.",
+                "en.validation.url": "The :attribute format is invalid.",
+                "en.validation.uuid": "The :attribute must be a valid UUID.",
+                "en.validation.custom": {
+                    "attribute-name": {
+                        "rule-name": "custom-message"
+                    }
+                },
+                "en.validation.attributes": {
+                    "user_privacy.phone_number": "phone"
+                },
+                "fr.messages.no_content_available": "Vous ne disposez pas de contenu sur votre licence.",
+                "en.messages.no_content_available": "There is no content available under your licence.",
+                "fr.code-list.language-code.en": "Anglais",
+                "fr.code-list.language-code.es": "Espagnol",
+                "fr.code-list.language-code.de": "Allemand",
+                "fr.code-list.language-code.fr": "Fran\u00e7ais",
+                "fr.code-list.language-code.zh": "Chinois",
+                "en.code-list.language-code.de": "German",
+                "en.code-list.language-code.en": "English",
+                "en.code-list.language-code.es": "Spanish",
+                "en.code-list.language-code.fr": "French",
+                "en.code-list.language-code.zh": "Chinese",
+                "fr.code-list.skill-category.GRAMMAR": "Grammaire",
+                "fr.code-list.skill-category.LANGUAGE_FUNCTIONS": "Expression",
+                "fr.code-list.skill-category.VOCABULARY": "Vocabulaire",
+                "en.code-list.skill-category.GRAMMAR": "Grammar",
+                "en.code-list.skill-category.LANGUAGE_FUNCTIONS": "Language functions",
+                "en.code-list.skill-category.VOCABULARY": "Vocabulary",
+                "fr.modals.freemium.buttons": {
+                    "see_plans": "Voir les formules"
+                },
+                "fr.modals.freemium.titles": {
+                    "training": "Progressez plus rapidement",
+                    "exam": "\u00c9valuez-vous en conditions r\u00e9elles et d\u00e9couvrez votre score",
+                    "planning": "Choisissez le parcours adapt\u00e9 \u00e0 votre objectif",
+                    "study_sheet": "Ma\u00eetrisez toutes les comp\u00e9tences",
+                    "assessment": "Votre p\u00e9riode d\u2019essai a expir\u00e9"
+                },
+                "fr.modals.freemium.labels": {
+                    "training": "Acc\u00e9dez \u00e0 l'ensemble des corrections et b\u00e9n\u00e9ficiez de toutes les fonctionnalit\u00e9s en devenant membre Premium !",
+                    "exam": "Acc\u00e9dez aux examens blancs et b\u00e9n\u00e9ficiez de toutes les fonctionnalit\u00e9s en devenant membre Premium !",
+                    "planning": "Acc\u00e9dez aux parcours personnalis\u00e9s et b\u00e9n\u00e9ficiez de toutes les fonctionnalit\u00e9s en devenant membre Premium !",
+                    "study_sheet": "Validez vos connaissances avec nos 390 exercices d'application.",
+                    "assessment": "Acc\u00e9dez au test de niveau et \u00e0 l\u2019ensemble des fonctionnalit\u00e9s en devenant membre Premium !"
+                },
+                "en.modals.freemium.buttons": {
+                    "see_plans": "View packages"
+                },
+                "en.modals.freemium.labels": {
+                    "assessment": "Gain access to the diagnostic assessment and full functionality when you go Premium!",
+                    "exam": "Gain access to mock exams and full functionality when you go Premium!",
+                    "planning": "Gain access to customised study programmes and full functionality when you go Premium!",
+                    "study_sheet": "We have 390 applied exercises to validate your knowledge.",
+                    "training": "Gain access to all corrections and full functionality when you go Premium!"
+                },
+                "en.modals.freemium.titles": {
+                    "assessment": "Your trial period has expired",
+                    "exam": "Assess yourself under real exam conditions and find out how you scored",
+                    "planning": "Choose the right study programme for your goal",
+                    "study_sheet": "Master all the skills",
+                    "training": "Progress faster"
+                },
+                "fr.banner.2020-03-31-spring-time": {
+                    "button": "Profiter de l'offre",
+                    "message": "<span class=\"tw-font-bold tw-block tw-text-size-10 lg:tw-inline lg:tw-text-52px\">-30%<\/span> sur votre abonnement !"
+                },
+                "fr.banner.2020-03-31-be-maintenance": {
+                    "message": "Le serveur sera indisponible suite \u00e0 une op\u00e9ration de maintenance pendant 2 heures \u00e0 partir de 14h00 (UTC+1) le 13\/04\/2020. Veuillez nous excuser pour le d\u00e9sagr\u00e9ment."
+                },
+                "fr.banner.2020-06-31-megaboost": {
+                    "button": "Profiter de l'offre",
+                    "message": "OFFRE SP\u00c9CIALE : 20% OFFERTS sur tous les abonnements premium avec le code MEGABOOST"
+                },
+                "fr.banner.2020-07-16-happysales": {
+                    "button": "Profiter de l'offre",
+                    "message": "OFFRE SP\u00c9CIALE : 50% OFFERTS sur tous les abonnements premium avec le code HAPPYSALES"
+                },
+                "fr.banner.2020-10-01-fall30": {
+                    "button": "Profiter de l'offre",
+                    "message": "OFFRE SP\u00c9CIALE : 30% OFFERTS sur tous les abonnements premium avec le code FALL30"
+                },
+                "fr.banner.2021-01-05-newstart2021": {
+                    "button": "Profiter de l'offre",
+                    "message": "OFFRE SP\u00c9CIALE : 20% OFFERTS sur tous les abonnements premium avec le code NEWSTART2021"
+                },
+                "fr.banner.2021-04-17-newinterface20": {
+                    "button": "Profiter de l'offre",
+                    "message": "OFFRE SP\u00c9CIALE : 20% OFFERTS sur tous les abonnements premium avec le code NEWINTERFACE20"
+                },
+                "fr.banner.2021-11-03-globalplayer21": {
+                    "button": "Profiter de l'offre",
+                    "message": "OFFRE SP\u00c9CIALE : 20% OFFERTS sur tous les abonnements premium avec le code GLOBALPLAYER21"
+                },
+                "fr.banner.2022-01-06-globalplayer22": {
+                    "button": "Profiter de l'offre",
+                    "message": "OFFRE SP\u00c9CIALE : 20% OFFERTS sur tous les abonnements premium avec le code GLOBALPLAYER22"
+                },
+                "en.banner.2020-03-31-be-maintenance": {
+                    "message": "The server will be unavailable for 2 hours from 2:00pm (UTC+1) on 13\/04\/2020 due to essential maintenance. Please accept our apologies for any inconvenience this may cause."
+                },
+                "en.banner.2020-03-31-spring-time": {
+                    "button": "Get this offer",
+                    "message": "<span class=\"tw-font-bold tw-block tw-text-size-10 lg:tw-inline lg:tw-text-52px\">30% off<\/span> your subscription!"
+                },
+                "en.banner.2020-06-31-megaboost": {
+                    "button": "Get this offer",
+                    "message": "SPECIAL OFFER: 20% OFF all premium subscriptions when you use the code MEGABOOST"
+                },
+                "en.banner.2020-07-16-happysales": {
+                    "button": "Get this offer",
+                    "message": "SPECIAL OFFER: 50% OFF all premium subscriptions when you use the code HAPPYSALES"
+                },
+                "en.banner.2020-10-01-fall30": {
+                    "button": "Get this offer",
+                    "message": "SPECIAL OFFER: 30% OFF all premium subscriptions when you use the code FALL30"
+                },
+                "en.banner.2021-01-05-newstart2021": {
+                    "button": "Get this offer",
+                    "message": "SPECIAL OFFER: 20% OFF all premium subscriptions when you use the code NEWSTART2021"
+                },
+                "en.banner.2021-04-17-newinterface20": {
+                    "button": "Get this offer",
+                    "message": "SPECIAL OFFER: 20% OFF all premium subscriptions when you use the code NEWINTERFACE20"
+                },
+                "en.banner.2021-11-03-globalplayer21": {
+                    "button": "Get this offer",
+                    "message": "SPECIAL OFFER: 20% OFF all premium subscriptions when you use the code GLOBALPLAYER21"
+                },
+                "en.banner.2022-01-06-globalplayer22": {
+                    "button": "Get this offer",
+                    "message": "SPECIAL OFFER: 20% OFF all premium subscriptions when you use the code GLOBALPLAYER22"
+                }
+            }
+        },
+        "errors": {},
+        "global_policies": {
+            "can_create_user_planning": false,
+            "can_access_user_planning": true,
+            "can_access_to_ad_b2b": false,
+            "can_access_to_be": false,
+            "can_access_to_general": false,
+            "can_access_library": false,
+            "can_access_to_sas": false,
+            "can_display_zendesk": true,
+            "can_exit_user_activity": true,
+            "can_display_user_dropdown": true,
+            "can_display_user_settings": false,
+            "can_display_external_links": true,
+            "can_include_tracking_scripts": true,
+            "can_display_videos_library": true
+        },
+        "banners": [],
+        "activitySettings": {
+            "numbering": "TRAINING",
+            "correction": {
+                "end_activity": "SHOW_ALL",
+                "during_activity": "SHOW_IN_SAME_PART"
+            },
+            "is_skippable": false,
+            "has_countdown": false,
+            "audio_controls": {
+                "mode": "MANUAL",
+                "max_retry_count": 0,
+                "enable_transcript": true
+            },
+            "is_redirected_to_stats": true,
+            "has_stats_with_correction": true,
+            "has_multiple_sessions_allowed": true,
+            "section_type_code": "Listening",
+            "is_available_for_demo": false,
+            "is_available_for_free": false
+        },
+        "translations": {
+            "fr.user-activity.layouts.buttons": {
+                "continue": "Continuer",
+                "correction": "Correction",
+                "finish": "Terminer",
+                "get_started": "D\u00e9marrer",
+                "leave_activity": "Quitter",
+                "next": "Suivant",
+                "OK": "OK",
+                "pass": "Passer",
+                "questions": "Questions",
+                "restart": "Recommencer",
+                "resume_activity": "Reprendre",
+                "see_correction": "Voir la correction",
+                "see_transcript": "Voir la transcription",
+                "supports": "Supports",
+                "transcript": "Transcription",
+                "validate": "Valider"
+            },
+            "fr.user-activity.layouts.labels": {
+                "advice": "Conseil",
+                "audio_error": "Vous devez autoriser l'acc\u00e8s \u00e0 votre microphone pour que l'enregistrement vocal fonctionne.",
+                "click_to_start_recording": "Appuyer pour d\u00e9marrer l\u2019enregistrement audio",
+                "click_to_stop_recording": "Appuyer pour arr\u00eater l\u2019enregistrement audio",
+                "countdown_preparation_time_read": ":number seconde de lectures restante|:number secondes de lecture restantes",
+                "countdown_preparation_time_recording": "Pr\u00e9parez-vous pour l\u2019enregistrement automatique dans :number seconde|Pr\u00e9parez-vous pour l\u2019enregistrement automatique dans :number secondes",
+                "countdown_timer_recording": "Enregistrement en cours... il vous reste :number seconde.|Enregistrement en cours... il vous reste :number secondes.",
+                "example": "Exemple",
+                "explanation": "Explication",
+                "guideline": "Consigne",
+                "image": "Image",
+                "question": "Question",
+                "question_number": "Question :number",
+                "section": "Section : :section_name",
+                "suggestion": "Suggestion",
+                "text": "Texte",
+                "total_time": "Temps total : :time",
+                "type_your_answer": "Saisissez votre r\u00e9ponse ici...",
+                "waiting_mic_activation": "En attente de l'activation du micro...",
+                "words": ":number mot|:number mots",
+                "your_audio_recording": "Votre enregistrement audio"
+            },
+            "fr.user-activity.layouts.modals": {
+                "answers_saved": "Vos r\u00e9ponses ont \u00e9t\u00e9 sauvegard\u00e9es.",
+                "are_you_sure": "\u00cates-vous s\u00fbr(e) de vouloir quitter ?",
+                "dont_show_this_again": "Ne plus afficher",
+                "error": "Erreur",
+                "error_occurred": "Une erreur est survenue",
+                "exam_mode_progress_saved": "Votre progression sera sauvegard\u00e9e, vous pourrez reprendre l'examen en le relan\u00e7ant.",
+                "guidelines": "Consignes",
+                "look_out": "Faites attention \u00e0...",
+                "on_mobile": "Vous \u00eates sur mobile",
+                "practice_on_desktop": "Pour passer votre examen dans de meilleures conditions, nous vous conseillons de vous entra\u00eener sur ordinateur.",
+                "time_elapsed": "Temps \u00e9coul\u00e9 !",
+                "time_elapsed_exam": "Vous avez termin\u00e9 votre examen blanc.",
+                "time_elapsed_section": "Vous allez passer \u00e0 la prochaine section.",
+                "training_mode_progress_saved": "Votre progression sera sauvegard\u00e9e, vous pourrez reprendre l'entra\u00eenement en le relan\u00e7ant.",
+                "transcript": "Transcription"
+            },
+            "en.user-activity.layouts.buttons": {
+                "continue": "Continue",
+                "correction": "Correction",
+                "finish": "Finish",
+                "get_started": "Start",
+                "leave_activity": "Exit",
+                "next": "Next",
+                "OK": "OK",
+                "pass": "Skip",
+                "questions": "Questions",
+                "restart": "Start again",
+                "resume_activity": "Resume",
+                "see_correction": "View correction",
+                "see_transcript": "View transcript",
+                "supports": "Support",
+                "transcript": "Transcript",
+                "validate": "Confirm"
+            },
+            "en.user-activity.layouts.labels": {
+                "advice": "Advice",
+                "audio_error": "You must enable access to your microphone for the voice recording function to work.",
+                "click_to_start_recording": "Press to start audio recording",
+                "click_to_stop_recording": "Press to stop audio recording",
+                "countdown_preparation_time_read": ":number second of recording time remaining |:number seconds of recording time remaining",
+                "countdown_preparation_time_recording": "Get ready to start recording in :number second|Get ready to start recording in :number seconds",
+                "countdown_timer_recording": "Recording in progress \u2026 you have :number second remaining.|Recording in progress \u2026 you have :number seconds remaining.",
+                "example": "Example",
+                "explanation": "Explanation",
+                "guideline": "Instruction",
+                "image": "Image",
+                "question": "Question",
+                "question_number": "Question :number",
+                "section": "Section: :section_name",
+                "suggestion": "Suggestion",
+                "text": "Text",
+                "total_time": "Total time: :time",
+                "type_your_answer": "Enter your answer here...",
+                "waiting_mic_activation": "Waiting for microphone activation...",
+                "words": ":number word|:number words",
+                "your_audio_recording": "Your audio recording"
+            },
+            "en.user-activity.layouts.modals": {
+                "answers_saved": "Your answers were saved.",
+                "are_you_sure": "Are you sure you want to exit?",
+                "dont_show_this_again": "Do not show again",
+                "error": "Error",
+                "error_occurred": "An error occurred",
+                "exam_mode_progress_saved": "Your progress will be saved; you can resume the exam from here on your next try.",
+                "guidelines": "Instructions",
+                "look_out": "Take care with ...",
+                "on_mobile": "You're using a mobile phone",
+                "practice_on_desktop": "We recommend using a computer for optimum exam conditions.",
+                "time_elapsed": "Time's up!",
+                "time_elapsed_exam": "You've completed your mock exam.",
+                "time_elapsed_section": "You'll be taken to the next section.",
+                "training_mode_progress_saved": "Your progress will be saved; you can resume your training from here on your next try.",
+                "transcript": "Transcript"
+            }
+        },
+        "userActivityId": 20192511,
+        "activity": {
+            "data": {
+                "id": 5693,
+                "name": "TOEIC Listening Partie 1 - Photographies - Entra\u00eenement 203",
+                "order": 3,
+                "meta": {
+                    "duration": 180
+                },
+                "stats": null,
+                "enabled_at": null,
+                "disabled_at": null,
+                "is_available": true,
+                "is_enabled": true,
+                "is_standard": false,
+                "has_plannings": false,
+                "activity_type_code": "STANDARD",
+                "can_be_done_more_than_once": true,
+                "can_see_correction": false,
+                "can_see_score": false,
+                "duration_in_human_format": "00:03:00",
+                "mode_id": null,
+                "mode": null,
+                "planning": null,
+                "referent_mode_item": null,
+                "content_difficulty_code": "MEDIUM",
+                "translations": {
+                    "title": "Entra\u00eenement 203",
+                    "description": null
+                },
+                "medias": {
+                    "image_url": "",
+                    "video_url": ""
+                },
+                "unlocked_container": null
+            }
+        },
+        "examPart": {
+            "data": {
+                "id": 10286,
+                "order": 1,
+                "has_pagination": false,
+                "exam_part_template_code": "COLUMN_SINGLE_SUPPORT_FIRST",
+                "language_code": "en",
+                "content_difficulty_code": null,
+                "user_stats": null,
+                "exam_supports": [
+                    {
+                        "id": 10448,
+                        "order": 1,
+                        "media_format_code": "AUDIO",
+                        "media_usage_code": "COVER",
+                        "timer": null,
+                        "preparation_time": null,
+                        "exam_support_event_action": [],
+                        "media": {
+                            "url": {
+                                "name": "09-toeic-part-1-3",
+                                "file_url": "https:\/\/default-prod.s3.amazonaws.com\/media\/exam-support\/audio\/49855\/09-toeic-part-1-3.mp3"
+                            }
+                        },
+                        "transcript": "<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">1. A. The paramedic is assisting the patient.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The doctors are carrying the bed.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. The doors are standing wide open.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The patient is able to breathe on his own.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;<\/span><\/p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">2. A. The dump truck is overflowing.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The air is clear.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. The truck is currently being driven to its next destination.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The power lines are to the left of the dump truck.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;<\/span><\/p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">3. A. The people are not waiting for the train.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The train is pulling out of the station.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. The signs on the wall say smoking is permitted.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The train station is dimly lit.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;<\/span><\/p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">4. A. The man is pointing to the pie chart with his pen.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; &nbsp; B. The table chart is incomplete.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; &nbsp; C. They are drinking coffee.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; &nbsp; D. The men are discussing figures.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;<\/span><\/p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">5. A. The car is waiting outside the bank.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The traffic is not very heavy.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. People are shopping in the streets.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The street is filled with cars.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;<\/span><\/p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">6. A. The woman can't stop crying.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The woman is having her picture taken.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. The restaurant's terrace is full.<\/span><\/p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The business partners are having lunch.<\/span><\/p>",
+                        "translations": null
+                    }
+                ],
+                "is_scorable": null,
+                "is_corrigible": null
+            }
+        },
+        "mode": {
+            "data": []
+        },
+        "modeItem": {
+            "data": {
+                "id": 1085,
+                "name": "TOEIC Listening Partie 1 - Photographies",
+                "order": 1,
+                "meta": {
+                    "duration": 180,
+                    "first_question_order": null
+                },
+                "parent": {
+                    "id": 1083,
+                    "name": "TOEIC Listening",
+                    "order": 1,
+                    "meta": {
+                        "duration": 2700,
+                        "section_type_code": "LISTENING"
+                    },
+                    "translations": {
+                        "title": "Listening",
+                        "description": "<p>La section Listening testera votre comp&eacute;tence &agrave; comprendre l&rsquo;anglais parl&eacute;.<\/p>\n<p>La section Listening est compos&eacute;e de 4 exercices pour 100 questions en tout. Elle dure environ 45 minutes. Les consignes seront donn&eacute;es oralement pour chaque partie.&nbsp;<\/p>\n<p>ATTENTION : le jour du test vous devrez griser les cases sur une feuille de r&eacute;ponse s&eacute;par&eacute;e. Il est formellement interdit d&rsquo;&eacute;crire dans les livrets d&rsquo;examen.<\/p>\n<p>Contenu :<\/p>\n<p>Ex 1 - Photographies : 6 photographies, 6 questions<\/p>\n<p>Ex 2 - Questions &amp; r&eacute;ponses, 25 questions<\/p>\n<p>Ex 3 - Conversations : 13 conversations, 39 questions<\/p>\n<p>Ex 4 - Monologues : 10 monologues, 30 questions<\/p>\n<p>Remarque : la strat&eacute;gie principale pour gagner des points dans la partie Listening du TOEIC consiste &agrave; utiliser au maximum les informations contenues dans le livret d&rsquo;examen pour anticiper ce que vous allez entendre, et ainsi concentrer votre attention sur les points cl&eacute;s des enregistrements pour bien r&eacute;pondre aux questions. Cette strat&eacute;gie vaut pour les exercices 1, 3 et 4 (impossible d&rsquo;anticiper lors de l&rsquo;exercice 2 car les questions et les choix de r&eacute;ponse ne sont &eacute;nonc&eacute;s qu&rsquo;&agrave; l&rsquo;oral).<\/p>"
+                    }
+                },
+                "translations": {
+                    "title": "Partie 1 - Photographies",
+                    "description": "<p><strong>Sur GlobalExam<\/strong> : L'exercice 1 porte sur 6 photographies. Vous allez entendre 4 phrases par photographie et devrez s&eacute;lectionner celle qui correspond le mieux &agrave; la photographie d&eacute;di&eacute;e. Aucune description ne sera &eacute;crite. Seules les options A, B, C et D seront indiqu&eacute;es.<\/p>\n<p><strong>Le jour J<\/strong> : Dans votre livret d'examen, vous verrez 6 photographies. Cet exercice consiste &agrave; choisir, parmi les 4 propositions de r&eacute;ponse, celle qui d&eacute;crit le mieux chaque photographie. La lettre correspondante &agrave; la meilleure description doit &ecirc;tre report&eacute;e sur votre feuille de r&eacute;ponse. Les propositions ne sont pas &eacute;crites dans le livret, elles seront seulement &eacute;nonc&eacute;es une fois &agrave; l'oral. Il vous est interdit d&rsquo;&eacute;crire dans le livret.<\/p>\n<p><strong>Conseil<\/strong> : Anticipez en imaginant ce qui pourrait d&eacute;crire les photographies (qui, quoi, o&ugrave;, quand, comment&hellip;).<\/p>"
+                }
+            }
+        },
+        "activityPagination": {
+            "meta": {
+                "total_question_count": 6,
+                "current_question_number": 0,
+                "total_question_count_in_section": 6,
+                "current_question_number_in_section": 0,
+                "total_part_count": 1,
+                "current_part_number": 1,
+                "current_section_number": 1,
+                "total_section_count": 1
+            },
+            "sections": [
+                {
+                    "state": "IN_PROGRESS"
+                }
+            ]
+        },
+        "examQuestions": {
+            "data": [
+                {
+                    "id": 34183,
+                    "name": null,
+                    "order": 1,
+                    "is_example": false,
+                    "exam_question_type_code": "SINGLE_SELECTION",
+                    "content_difficulty_code": null,
+                    "exam_question_medias": [
+                        {
+                            "media_format_code": "IMAGE",
+                            "media_usage_code": "COVER",
+                            "url": {
+                                "name": "ent-34-q1",
+                                "file_url": "https:\/\/default-prod.s3.amazonaws.com\/media\/exam-question\/image\/50130\/ent-34-q1.jpg"
+                            }
+                        }
+                    ],
+                    "translations": {
+                        "suggestion": null,
+                        "explanation": "It seems that there is a paramedic assisting a patient in a hospital.<br \/>\n(B) - No one is carrying the bed, it\u2019s on wheels.<br \/>\n(C) - The doors are closed.<br \/>\n(D) - The paramedic is helping the patient breathe."
+                    },
+                    "exam_answers": [
+                        {
+                            "id": 126008,
+                            "numbering": "A",
+                            "name": null,
+                            "order": 1,
+                            "exam_question_id": 34183,
+                            "is_right_answer": true,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126009,
+                            "numbering": "B",
+                            "name": null,
+                            "order": 2,
+                            "exam_question_id": 34183,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126010,
+                            "numbering": "C",
+                            "name": null,
+                            "order": 3,
+                            "exam_question_id": 34183,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126011,
+                            "numbering": "D",
+                            "name": null,
+                            "order": 4,
+                            "exam_question_id": 34183,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        }
+                    ]
+                },
+                {
+                    "id": 34184,
+                    "name": null,
+                    "order": 2,
+                    "is_example": false,
+                    "exam_question_type_code": "SINGLE_SELECTION",
+                    "content_difficulty_code": null,
+                    "exam_question_medias": [
+                        {
+                            "media_format_code": "IMAGE",
+                            "media_usage_code": "COVER",
+                            "url": {
+                                "name": "ent-34-q2",
+                                "file_url": "https:\/\/default-prod.s3.amazonaws.com\/media\/exam-question\/image\/50131\/ent-34-q2.jpg"
+                            }
+                        }
+                    ],
+                    "translations": {
+                        "suggestion": null,
+                        "explanation": "Someone is driving the truck, so the truck is being driven to its next destination.<br \/>\n(A) - We do not see anything coming out the top of the truck.<br \/>\n(B) - It is quite foggy.<br \/>\n(D) - They are to the right, not the left."
+                    },
+                    "exam_answers": [
+                        {
+                            "id": 126012,
+                            "numbering": "A",
+                            "name": null,
+                            "order": 1,
+                            "exam_question_id": 34184,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126013,
+                            "numbering": "B",
+                            "name": null,
+                            "order": 2,
+                            "exam_question_id": 34184,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126014,
+                            "numbering": "C",
+                            "name": null,
+                            "order": 3,
+                            "exam_question_id": 34184,
+                            "is_right_answer": true,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126015,
+                            "numbering": "D",
+                            "name": null,
+                            "order": 4,
+                            "exam_question_id": 34184,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        }
+                    ]
+                },
+                {
+                    "id": 34185,
+                    "name": null,
+                    "order": 3,
+                    "is_example": false,
+                    "exam_question_type_code": "SINGLE_SELECTION",
+                    "content_difficulty_code": null,
+                    "exam_question_medias": [
+                        {
+                            "media_format_code": "IMAGE",
+                            "media_usage_code": "COVER",
+                            "url": {
+                                "name": "image-1-copie",
+                                "file_url": "https:\/\/default-prod.s3.amazonaws.com\/media\/exam-question\/image\/160899\/image-1-copie.png"
+                            }
+                        }
+                    ],
+                    "translations": {
+                        "suggestion": null,
+                        "explanation": "It seems that the tube is pulling out of the station.<br \/>\n(A) - We cannot be sure of this by looking at the photo.<br \/>\n(C) - The sign clearly states the opposite.<br \/>\n(D) - It is quite bright.<br \/>\n\"Tube\" is the British term for the American term \"subway.\""
+                    },
+                    "exam_answers": [
+                        {
+                            "id": 126016,
+                            "numbering": "A",
+                            "name": null,
+                            "order": 1,
+                            "exam_question_id": 34185,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126017,
+                            "numbering": "B",
+                            "name": null,
+                            "order": 2,
+                            "exam_question_id": 34185,
+                            "is_right_answer": true,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126018,
+                            "numbering": "C",
+                            "name": null,
+                            "order": 3,
+                            "exam_question_id": 34185,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126019,
+                            "numbering": "D",
+                            "name": null,
+                            "order": 4,
+                            "exam_question_id": 34185,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        }
+                    ]
+                },
+                {
+                    "id": 34186,
+                    "name": null,
+                    "order": 4,
+                    "is_example": false,
+                    "exam_question_type_code": "SINGLE_SELECTION",
+                    "content_difficulty_code": null,
+                    "exam_question_medias": [
+                        {
+                            "media_format_code": "IMAGE",
+                            "media_usage_code": "COVER",
+                            "url": {
+                                "name": "photo-of-person-pointing-on-laptop-3183171",
+                                "file_url": "https:\/\/default-prod.s3.amazonaws.com\/media\/exam-question\/image\/190731\/photo-of-person-pointing-on-laptop-3183171.jpg"
+                            }
+                        }
+                    ],
+                    "translations": {
+                        "suggestion": null,
+                        "explanation": "<p>The man is pointing the pie chart with his pen.<br \/><br \/>(B) - All graphs look complete.<br \/>(C) - We can&rsquo;t see any coffee mugs.&nbsp;&nbsp;<\/p>\n<p>(D) - We don't know if they are discussing or not.<\/p>"
+                    },
+                    "exam_answers": [
+                        {
+                            "id": 126020,
+                            "numbering": "A",
+                            "name": null,
+                            "order": 1,
+                            "exam_question_id": 34186,
+                            "is_right_answer": true,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126021,
+                            "numbering": "B",
+                            "name": null,
+                            "order": 2,
+                            "exam_question_id": 34186,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126022,
+                            "numbering": "C",
+                            "name": null,
+                            "order": 3,
+                            "exam_question_id": 34186,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126023,
+                            "numbering": "D",
+                            "name": null,
+                            "order": 4,
+                            "exam_question_id": 34186,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        }
+                    ]
+                },
+                {
+                    "id": 34187,
+                    "name": null,
+                    "order": 5,
+                    "is_example": false,
+                    "exam_question_type_code": "SINGLE_SELECTION",
+                    "content_difficulty_code": null,
+                    "exam_question_medias": [
+                        {
+                            "media_format_code": "IMAGE",
+                            "media_usage_code": "COVER",
+                            "url": {
+                                "name": "q5",
+                                "file_url": "https:\/\/default-prod.s3.amazonaws.com\/media\/exam-question\/image\/50134\/q5.JPG"
+                            }
+                        }
+                    ],
+                    "translations": {
+                        "suggestion": null,
+                        "explanation": "The picture shows an empty street on a rainy day.\u00a0<br \/>\n(A) - We do not know if there is a bank, or if a car is waiting.\u00a0<br \/>\n(C) - We cannot be certain that people are shopping.\u00a0<br \/>\n(D) - There are only a few cars on the street."
+                    },
+                    "exam_answers": [
+                        {
+                            "id": 126024,
+                            "numbering": "A",
+                            "name": null,
+                            "order": 1,
+                            "exam_question_id": 34187,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126025,
+                            "numbering": "B",
+                            "name": null,
+                            "order": 2,
+                            "exam_question_id": 34187,
+                            "is_right_answer": true,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126026,
+                            "numbering": "C",
+                            "name": null,
+                            "order": 3,
+                            "exam_question_id": 34187,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126027,
+                            "numbering": "D",
+                            "name": null,
+                            "order": 4,
+                            "exam_question_id": 34187,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        }
+                    ]
+                },
+                {
+                    "id": 34188,
+                    "name": null,
+                    "order": 6,
+                    "is_example": false,
+                    "exam_question_type_code": "SINGLE_SELECTION",
+                    "content_difficulty_code": null,
+                    "exam_question_medias": [
+                        {
+                            "media_format_code": "IMAGE",
+                            "media_usage_code": "COVER",
+                            "url": {
+                                "name": "q6",
+                                "file_url": "https:\/\/default-prod.s3.amazonaws.com\/media\/exam-question\/image\/50136\/q6.JPG"
+                            }
+                        }
+                    ],
+                    "translations": {
+                        "suggestion": null,
+                        "explanation": "<p>She is smiling and looking at someone. She's making a silly face so we can guess someone's taking a picture.<\/p>\n<p><br \/> (A) - The woman is not crying.&nbsp;<br \/> (C) - We cannot tell if the terrace is full or empty.&nbsp;<br \/> (D) - There are no other people in the picture so we can't know.<\/p>"
+                    },
+                    "exam_answers": [
+                        {
+                            "id": 126028,
+                            "numbering": "A",
+                            "name": null,
+                            "order": 1,
+                            "exam_question_id": 34188,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126029,
+                            "numbering": "B",
+                            "name": null,
+                            "order": 2,
+                            "exam_question_id": 34188,
+                            "is_right_answer": true,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126030,
+                            "numbering": "C",
+                            "name": null,
+                            "order": 3,
+                            "exam_question_id": 34188,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        },
+                        {
+                            "id": 126031,
+                            "numbering": "D",
+                            "name": null,
+                            "order": 4,
+                            "exam_question_id": 34188,
+                            "is_right_answer": false,
+                            "exam_answer_medias": []
+                        }
+                    ]
+                }
+            ]
+        },
+        "isPlanningActivity": true,
+        "planningActivityData": {
+            "planning": {
+                "name": "TOEIC complet long difficile",
+                "translations": {
+                    "name": "TOEIC - Parcours Objectif \u2219 +180 \u2219 From 785 To 990 Points",
+                    "slug": "parcours-objectif",
+                    "old_name": "Parcours Objectif"
+                }
+            },
+            "planning_module": {
+                "translations": {
+                    "name": "Deviens un as du Listening et du Reading",
+                    "slug": "deviens-un-as-du-listening-et-du-reading"
+                }
+            }
+        },
+        "remainingSeconds": null,
+        "elapsedSeconds": 0
+    },
+    "url": "\/training\/activity\/20192511\/content\/10286",
+    "version": "4b50dde26bcccfbfe7c7eb6143de2689"
+}

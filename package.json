@@ -1,0 +1,17 @@
+{
+  "name": "global-exam-student",
+  "version": "1.0.0",
+  "description": "cool",
+  "main": "index.js",
+  "repository": "git@github.com:malletgaetan/global-exam-student.git",
+  "author": "malletgaetan <mallet.gaetan@hotmail.fr>",
+  "license": "MIT",
+  "dependencies": {
+    "ghost-cursor": "^1.1.8",
+    "jsdom": "^19.0.0",
+    "puppeteer": "^13.3.2",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  },
+  "type": "module"
+}
