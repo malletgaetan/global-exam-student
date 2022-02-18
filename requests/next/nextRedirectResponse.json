@@ -41,9 +41,7 @@
         "demo_remaining_days": -1
       }
     },
-    "flash": {
-      "success": "Vous avez repris une activit\u00e9 !"
-    },
+    "flash": null,
     "content": {
       "overview": {
         "has_library_content": true,
@@ -243,9 +241,9 @@
       }
     },
     "meta": {
-      "page_title": "training/activity/20192511/content/10286",
-      "page_url": "https://exam.global-exam.com/training/activity/20192511/content/10286",
-      "page_path": "training/activity/20192511/content/10286",
+      "page_title": "training/activity/20159695/content/11533",
+      "page_url": "https://exam.global-exam.com/training/activity/20159695/content/11533",
+      "page_path": "training/activity/20159695/content/11533",
       "current_route_name": "view.user-activity.training::show",
       "is_auth": true,
       "auth_url": "https://auth.global-exam.com",
@@ -271,9 +269,6 @@
           "user_email": "297172@ynov",
           "user_plan": null,
           "nb_days": -231
-        },
-        {
-          "event": "course_resumed"
         }
       ],
       "is_embedded": false,
@@ -805,7 +800,7 @@
       "is_redirected_to_stats": true,
       "has_stats_with_correction": true,
       "has_multiple_sessions_allowed": true,
-      "section_type_code": "Listening",
+      "section_type_code": "Reading",
       "is_available_for_demo": false,
       "is_available_for_free": false
     },
@@ -927,14 +922,14 @@
         "transcript": "Transcript"
       }
     },
-    "userActivityId": 20192511,
+    "userActivityId": 20159695,
     "activity": {
       "data": {
-        "id": 5693,
-        "name": "TOEIC Listening Partie 1 - Photographies - Entra\u00eenement 203",
-        "order": 3,
+        "id": 4926,
+        "name": "TOEIC Reading Partie 7(B) - Textes multiples - Entra\u00eenement 217",
+        "order": 12,
         "meta": {
-          "duration": 180
+          "duration": 1500
         },
         "stats": null,
         "enabled_at": null,
@@ -947,14 +942,14 @@
         "can_be_done_more_than_once": true,
         "can_see_correction": false,
         "can_see_score": false,
-        "duration_in_human_format": "00:03:00",
+        "duration_in_human_format": "00:25:00",
         "mode_id": null,
         "mode": null,
         "planning": null,
         "referent_mode_item": null,
         "content_difficulty_code": "MEDIUM",
         "translations": {
-          "title": "Entra\u00eenement 203",
+          "title": "Entra\u00eenement 217",
           "description": null
         },
         "medias": {
@@ -966,29 +961,63 @@
     },
     "examPart": {
       "data": {
-        "id": 10286,
-        "order": 1,
-        "has_pagination": false,
-        "exam_part_template_code": "COLUMN_SINGLE_SUPPORT_FIRST",
+        "id": 11533,
+        "order": 3,
+        "has_pagination": true,
+        "exam_part_template_code": "ROW_QUESTION_FIRST",
         "language_code": "en",
         "content_difficulty_code": null,
         "user_stats": null,
         "exam_supports": [
           {
-            "id": 10448,
+            "id": 18270,
             "order": 1,
-            "media_format_code": "AUDIO",
+            "media_format_code": "IMAGE",
             "media_usage_code": "COVER",
             "timer": null,
             "preparation_time": null,
             "exam_support_event_action": [],
             "media": {
               "url": {
-                "name": "09-toeic-part-1-3",
-                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-support/audio/49855/09-toeic-part-1-3.mp3"
+                "name": "sxo0rybmkkjzjpyiziyuxva",
+                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-support/image/120251/sxo0rybmkkjzjpyiziyuxva.png"
               }
             },
-            "transcript": "<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">1. A. The paramedic is assisting the patient.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The doctors are carrying the bed.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. The doors are standing wide open.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The patient is able to breathe on his own.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">2. A. The dump truck is overflowing.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The air is clear.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. The truck is currently being driven to its next destination.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The power lines are to the left of the dump truck.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">3. A. The people are not waiting for the train.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The train is pulling out of the station.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. The signs on the wall say smoking is permitted.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The train station is dimly lit.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">4. A. The man is pointing to the pie chart with his pen.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; &nbsp; B. The table chart is incomplete.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; &nbsp; C. They are drinking coffee.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; &nbsp; D. The men are discussing figures.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">5. A. The car is waiting outside the bank.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The traffic is not very heavy.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. People are shopping in the streets.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The street is filled with cars.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp;</span></p>\n<p class=\"MsoNormal\" style=\"mso-outline-level: 1;\"><span lang=\"EN-US\">6. A. The woman can't stop crying.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; B. The woman is having her picture taken.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; C. The restaurant's terrace is full.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-US\">&nbsp; &nbsp; D. The business partners are having lunch.</span></p>",
+            "transcript": null,
+            "translations": null
+          },
+          {
+            "id": 18271,
+            "order": 2,
+            "media_format_code": "IMAGE",
+            "media_usage_code": "COVER",
+            "timer": null,
+            "preparation_time": null,
+            "exam_support_event_action": [],
+            "media": {
+              "url": {
+                "name": "sljqsivhqxk8xsvtgskrnwg",
+                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-support/image/120253/sljqsivhqxk8xsvtgskrnwg.png"
+              }
+            },
+            "transcript": null,
+            "translations": null
+          },
+          {
+            "id": 18272,
+            "order": 3,
+            "media_format_code": "IMAGE",
+            "media_usage_code": "COVER",
+            "timer": null,
+            "preparation_time": null,
+            "exam_support_event_action": [],
+            "media": {
+              "url": {
+                "name": "s9cxe63gaukemnlnoij1abg",
+                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-support/image/120255/s9cxe63gaukemnlnoij1abg.png"
+              }
+            },
+            "transcript": null,
             "translations": null
           }
         ],
@@ -997,44 +1026,76 @@
       }
     },
     "mode": {
-      "data": []
+      "data": {
+        "id": 80,
+        "name": "Training mode",
+        "meta": {
+          "numbering": "TRAINING",
+          "correction": {
+            "end_activity": "SHOW_ALL",
+            "during_activity": "SHOW_IN_SAME_PART",
+            "enable_answer_after_correction": true
+          },
+          "is_skippable": false,
+          "has_countdown": false,
+          "audio_controls": {
+            "mode": "MANUAL",
+            "max_retry_count": 0,
+            "enable_transcript": true
+          },
+          "is_redirected_to_stats": true,
+          "has_stats_with_correction": true,
+          "has_multiple_sessions_allowed": true
+        },
+        "order": 1,
+        "mode_type_code": "TRAINING_MODE",
+        "content_difficulty_code": null,
+        "required_cefr_level": null,
+        "has_mode_items": false,
+        "stats": [],
+        "user_stats": [],
+        "translations": {
+          "title": "Training Mode",
+          "description": "<p>Progressez \u00e0 votre rythme avec des entrainements organis\u00e9s par exercices.</p>"
+        }
+      }
     },
     "modeItem": {
       "data": {
-        "id": 1085,
-        "name": "TOEIC Listening Partie 1 - Photographies",
-        "order": 1,
+        "id": 977,
+        "name": "TOEIC Reading Partie 7(B) - Textes multiples",
+        "order": 4,
         "meta": {
-          "duration": 180,
+          "duration": 1500,
           "first_question_order": null
         },
         "parent": {
-          "id": 1083,
-          "name": "TOEIC Listening",
-          "order": 1,
+          "id": 487,
+          "name": "TOEIC Reading",
+          "order": 2,
           "meta": {
-            "duration": 2700,
-            "section_type_code": "LISTENING"
+            "duration": 4500,
+            "section_type_code": "READING"
           },
           "translations": {
-            "title": "Listening",
-            "description": "<p>La section Listening testera votre comp&eacute;tence &agrave; comprendre l&rsquo;anglais parl&eacute;.</p>\n<p>La section Listening est compos&eacute;e de 4 exercices pour 100 questions en tout. Elle dure environ 45 minutes. Les consignes seront donn&eacute;es oralement pour chaque partie.&nbsp;</p>\n<p>ATTENTION : le jour du test vous devrez griser les cases sur une feuille de r&eacute;ponse s&eacute;par&eacute;e. Il est formellement interdit d&rsquo;&eacute;crire dans les livrets d&rsquo;examen.</p>\n<p>Contenu :</p>\n<p>Ex 1 - Photographies : 6 photographies, 6 questions</p>\n<p>Ex 2 - Questions &amp; r&eacute;ponses, 25 questions</p>\n<p>Ex 3 - Conversations : 13 conversations, 39 questions</p>\n<p>Ex 4 - Monologues : 10 monologues, 30 questions</p>\n<p>Remarque : la strat&eacute;gie principale pour gagner des points dans la partie Listening du TOEIC consiste &agrave; utiliser au maximum les informations contenues dans le livret d&rsquo;examen pour anticiper ce que vous allez entendre, et ainsi concentrer votre attention sur les points cl&eacute;s des enregistrements pour bien r&eacute;pondre aux questions. Cette strat&eacute;gie vaut pour les exercices 1, 3 et 4 (impossible d&rsquo;anticiper lors de l&rsquo;exercice 2 car les questions et les choix de r&eacute;ponse ne sont &eacute;nonc&eacute;s qu&rsquo;&agrave; l&rsquo;oral).</p>"
+            "title": "Reading",
+            "description": "<p>La section Reading est compos&eacute;e de 4 exercices pour 100 questions en tout.</p>\n<p>Elle dure environ 75 minutes. Les consignes sont donn&eacute;es au d&eacute;but de chaque partie. Vous devez r&eacute;pondre &agrave; un maximum de questions dans le temps qui vous est donn&eacute; sachant qu&rsquo;il n&rsquo;y a pas de point n&eacute;gatif dans ce test.&nbsp;</p>\n<p>ATTENTION : le jour du test vous devrez griser les bonnes r&eacute;ponses sur une feuille de r&eacute;ponse s&eacute;par&eacute;e. Il est formellement interdit d&rsquo;&eacute;crire dans les livrets d&rsquo;examen.</p>\n<p>Contenu :</p>\n<p>Ex 5 - Phrases &agrave; trous : 30 questions</p>\n<p>Ex 6 - Textes &agrave; trous : 16 questions</p>\n<p>Ex 7 (A) - Passages simples : 29 questions</p>\n<p>Ex 7 (B) - Passages multiples : 25 questions</p>\n<p>Remarque : il n&rsquo;y pas d&rsquo;ordre impos&eacute; pour r&eacute;aliser les exercices de la section reading. En fonction de vos facilit&eacute;s et de votre strat&eacute;gie, vous pouvez commencer par l&rsquo;exercice que vous le souhaitez. Essayez diff&eacute;rentes strat&eacute;gies avant le jour du test afin de voir dans quelle configuration vous &ecirc;tes le plus &agrave; l&rsquo;aise.</p>"
           }
         },
         "translations": {
-          "title": "Partie 1 - Photographies",
-          "description": "<p><strong>Sur GlobalExam</strong> : L'exercice 1 porte sur 6 photographies. Vous allez entendre 4 phrases par photographie et devrez s&eacute;lectionner celle qui correspond le mieux &agrave; la photographie d&eacute;di&eacute;e. Aucune description ne sera &eacute;crite. Seules les options A, B, C et D seront indiqu&eacute;es.</p>\n<p><strong>Le jour J</strong> : Dans votre livret d'examen, vous verrez 6 photographies. Cet exercice consiste &agrave; choisir, parmi les 4 propositions de r&eacute;ponse, celle qui d&eacute;crit le mieux chaque photographie. La lettre correspondante &agrave; la meilleure description doit &ecirc;tre report&eacute;e sur votre feuille de r&eacute;ponse. Les propositions ne sont pas &eacute;crites dans le livret, elles seront seulement &eacute;nonc&eacute;es une fois &agrave; l'oral. Il vous est interdit d&rsquo;&eacute;crire dans le livret.</p>\n<p><strong>Conseil</strong> : Anticipez en imaginant ce qui pourrait d&eacute;crire les photographies (qui, quoi, o&ugrave;, quand, comment&hellip;).</p>"
+          "title": "Partie 7(B) - Textes multiples",
+          "description": "<p><strong>Sur GlobalExam</strong>&nbsp;: La partie 7(B)&nbsp;comporte 25 questions portant sur 2 textes doubles et 3 textes triples. Chaque groupe de texte sera suivi de 5 questions. Pour vous aider, 4 options par question vous seront propos&eacute;es. Choisissez la bonne r&eacute;ponse.</p>\n<p><strong>Le jour J</strong>&nbsp;: Les textes simples et doubles s&rsquo;encha&icirc;nent dans la m&ecirc;me partie. Chaque texte est suivi de 3 &agrave; 5 questions &eacute;valuant votre compr&eacute;hension. Pour y r&eacute;pondre, vous avez le choix entre 4 propositions de r&eacute;ponse. Le tout est indiqu&eacute; sur le livret d'examen. Reportez la bonne r&eacute;ponse sur la feuille de r&eacute;ponse. Il vous est interdit d&rsquo;&eacute;crire dans le livret.</p>\n<p><strong>Conseil</strong>&nbsp;: Lisez les questions et m&eacute;morisez les mots cl&eacute;s avant de commencer votre lecture. D&egrave;s que vous trouvez une r&eacute;ponse, indiquez-la afin de vous lib&eacute;rer l&rsquo;esprit et de vous sentir avancer.</p>"
         }
       }
     },
     "activityPagination": {
       "meta": {
-        "total_question_count": 6,
-        "current_question_number": 0,
-        "total_question_count_in_section": 6,
-        "current_question_number_in_section": 0,
-        "total_part_count": 1,
-        "current_part_number": 1,
+        "total_question_count": 25,
+        "current_question_number": 10,
+        "total_question_count_in_section": 25,
+        "current_question_number_in_section": 10,
+        "total_part_count": 5,
+        "current_part_number": 3,
         "current_section_number": 1,
         "total_section_count": 1
       },
@@ -1047,361 +1108,256 @@
     "examQuestions": {
       "data": [
         {
-          "id": 34183,
-          "name": null,
+          "id": 38134,
+          "name": "<p>In the chat conversation, the word &ldquo;standouts&rdquo; is closest in meaning to&hellip;</p>",
           "order": 1,
           "is_example": false,
           "exam_question_type_code": "SINGLE_SELECTION",
           "content_difficulty_code": null,
-          "exam_question_medias": [
-            {
-              "media_format_code": "IMAGE",
-              "media_usage_code": "COVER",
-              "url": {
-                "name": "ent-34-q1",
-                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-question/image/50130/ent-34-q1.jpg"
-              }
-            }
-          ],
+          "exam_question_medias": [],
           "translations": {
             "suggestion": null,
-            "explanation": "It seems that there is a paramedic assisting a patient in a hospital.<br />\n(B) - No one is carrying the bed, it\u2019s on wheels.<br />\n(C) - The doors are closed.<br />\n(D) - The paramedic is helping the patient breathe."
+            "explanation": "\u201cStandout\u201d can mean any of the choices given. In this context, it means someone who is better than the others, or whose resume looks better than the others."
           },
           "exam_answers": [
             {
-              "id": 126008,
+              "id": 141544,
               "numbering": "A",
-              "name": null,
+              "name": "someone who protests against something",
               "order": 1,
-              "exam_question_id": 34183,
-              "is_right_answer": true,
+              "exam_question_id": 38134,
+              "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126009,
+              "id": 141545,
               "numbering": "B",
-              "name": null,
+              "name": "someone who is easily noticeable",
               "order": 2,
-              "exam_question_id": 34183,
+              "exam_question_id": 38134,
               "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126010,
+              "id": 141546,
               "numbering": "C",
-              "name": null,
+              "name": "someone who is taller than others",
               "order": 3,
-              "exam_question_id": 34183,
+              "exam_question_id": 38134,
               "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126011,
+              "id": 141547,
               "numbering": "D",
-              "name": null,
+              "name": "someone who is better than others",
               "order": 4,
-              "exam_question_id": 34183,
-              "is_right_answer": false,
+              "exam_question_id": 38134,
+              "is_right_answer": true,
               "exam_answer_medias": []
             }
           ]
         },
         {
-          "id": 34184,
-          "name": null,
+          "id": 38135,
+          "name": "<p>Which of these are necessary to be eligible for the position?</p>",
           "order": 2,
           "is_example": false,
           "exam_question_type_code": "SINGLE_SELECTION",
           "content_difficulty_code": null,
-          "exam_question_medias": [
-            {
-              "media_format_code": "IMAGE",
-              "media_usage_code": "COVER",
-              "url": {
-                "name": "ent-34-q2",
-                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-question/image/50131/ent-34-q2.jpg"
-              }
-            }
-          ],
+          "exam_question_medias": [],
           "translations": {
             "suggestion": null,
-            "explanation": "Someone is driving the truck, so the truck is being driven to its next destination.<br />\n(A) - We do not see anything coming out the top of the truck.<br />\n(B) - It is quite foggy.<br />\n(D) - They are to the right, not the left."
+            "explanation": "The ad tells us that a degree is required. A degree is earned through a university.<br />\n(A) - Transferable skills are necessary if applicants do not have relevant work experience.<br />\n(B) is desirable but not essential, and so, not necessary.<br />\n(D) - The applicant has experience working with families, but the ad does not ask for this."
           },
           "exam_answers": [
             {
-              "id": 126012,
+              "id": 141548,
               "numbering": "A",
-              "name": null,
+              "name": "Transferable skills",
               "order": 1,
-              "exam_question_id": 34184,
+              "exam_question_id": 38135,
               "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126013,
+              "id": 141549,
               "numbering": "B",
-              "name": null,
+              "name": "Experience working in healthcare",
               "order": 2,
-              "exam_question_id": 34184,
+              "exam_question_id": 38135,
               "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126014,
+              "id": 141550,
               "numbering": "C",
-              "name": null,
+              "name": "A university education",
               "order": 3,
-              "exam_question_id": 34184,
+              "exam_question_id": 38135,
               "is_right_answer": true,
               "exam_answer_medias": []
             },
             {
-              "id": 126015,
+              "id": 141551,
               "numbering": "D",
-              "name": null,
+              "name": "Experience working with families",
               "order": 4,
-              "exam_question_id": 34184,
+              "exam_question_id": 38135,
               "is_right_answer": false,
               "exam_answer_medias": []
             }
           ]
         },
         {
-          "id": 34185,
-          "name": null,
+          "id": 38136,
+          "name": "<p>What is Ms. Exter&rsquo;s background?&nbsp;</p>",
           "order": 3,
           "is_example": false,
           "exam_question_type_code": "SINGLE_SELECTION",
           "content_difficulty_code": null,
-          "exam_question_medias": [
-            {
-              "media_format_code": "IMAGE",
-              "media_usage_code": "COVER",
-              "url": {
-                "name": "image-1-copie",
-                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-question/image/160899/image-1-copie.png"
-              }
-            }
-          ],
+          "exam_question_medias": [],
           "translations": {
             "suggestion": null,
-            "explanation": "It seems that the tube is pulling out of the station.<br />\n(A) - We cannot be sure of this by looking at the photo.<br />\n(C) - The sign clearly states the opposite.<br />\n(D) - It is quite bright.<br />\n\"Tube\" is the British term for the American term \"subway.\""
+            "explanation": "Ms. Exter has worked as a psychotherapist in a high school and with families at a maternity clinic. This experience will be useful in her potential job.<br />\n(A) - Ms. Exter would work towards a degree if she were given the opportunity.<br />\n(C) - Ms. Exter was a high school psychotherapist, not a teacher.<br />\n(D) - Ms. Exter does not mention what she has and has not studied."
           },
           "exam_answers": [
             {
-              "id": 126016,
+              "id": 141552,
               "numbering": "A",
-              "name": null,
+              "name": "She is working toward a degree.",
               "order": 1,
-              "exam_question_id": 34185,
+              "exam_question_id": 38136,
               "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126017,
+              "id": 141553,
               "numbering": "B",
-              "name": null,
+              "name": "She has transferable skills.",
               "order": 2,
-              "exam_question_id": 34185,
+              "exam_question_id": 38136,
               "is_right_answer": true,
               "exam_answer_medias": []
             },
             {
-              "id": 126018,
+              "id": 141554,
               "numbering": "C",
-              "name": null,
+              "name": "She was a high school teacher.",
               "order": 3,
-              "exam_question_id": 34185,
+              "exam_question_id": 38136,
               "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126019,
+              "id": 141555,
               "numbering": "D",
-              "name": null,
+              "name": "She has studied social work as a subject.",
               "order": 4,
-              "exam_question_id": 34185,
+              "exam_question_id": 38136,
               "is_right_answer": false,
               "exam_answer_medias": []
             }
           ]
         },
         {
-          "id": 34186,
-          "name": null,
+          "id": 38137,
+          "name": "<p>What concerns John about Ms. Exter?</p>",
           "order": 4,
           "is_example": false,
           "exam_question_type_code": "SINGLE_SELECTION",
           "content_difficulty_code": null,
-          "exam_question_medias": [
-            {
-              "media_format_code": "IMAGE",
-              "media_usage_code": "COVER",
-              "url": {
-                "name": "photo-of-person-pointing-on-laptop-3183171",
-                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-question/image/190731/photo-of-person-pointing-on-laptop-3183171.jpg"
-              }
-            }
-          ],
+          "exam_question_medias": [],
           "translations": {
             "suggestion": null,
-            "explanation": "<p>The man is pointing the pie chart with his pen.<br /><br />(B) - All graphs look complete.<br />(C) - We can&rsquo;t see any coffee mugs.&nbsp;&nbsp;</p>\n<p>(D) - We don't know if they are discussing or not.</p>"
+            "explanation": "John thinks that working at a hospital will present bigger challenges than working at a high school and maternity clinic.<br />\n(A) - John would prefer Ms. Exter to have more experience, but this does not seem to be his primary concern.<br />\n(B) - Mentors are not mentioned.<br />\n(D) - Ms. Exter would only be studying if the opportunity came with the job, so this is not a concern for John."
           },
           "exam_answers": [
             {
-              "id": 126020,
+              "id": 141556,
               "numbering": "A",
-              "name": null,
+              "name": "She has limited experience.",
               "order": 1,
-              "exam_question_id": 34186,
+              "exam_question_id": 38137,
+              "is_right_answer": false,
+              "exam_answer_medias": []
+            },
+            {
+              "id": 141557,
+              "numbering": "B",
+              "name": "She'd need mentoring.",
+              "order": 2,
+              "exam_question_id": 38137,
+              "is_right_answer": false,
+              "exam_answer_medias": []
+            },
+            {
+              "id": 141558,
+              "numbering": "C",
+              "name": "She wouldn't be able to cope with the workload.",
+              "order": 3,
+              "exam_question_id": 38137,
               "is_right_answer": true,
               "exam_answer_medias": []
             },
             {
-              "id": 126021,
-              "numbering": "B",
-              "name": null,
-              "order": 2,
-              "exam_question_id": 34186,
-              "is_right_answer": false,
-              "exam_answer_medias": []
-            },
-            {
-              "id": 126022,
-              "numbering": "C",
-              "name": null,
-              "order": 3,
-              "exam_question_id": 34186,
-              "is_right_answer": false,
-              "exam_answer_medias": []
-            },
-            {
-              "id": 126023,
+              "id": 141559,
               "numbering": "D",
-              "name": null,
+              "name": "Her studies would interfere with her work.",
               "order": 4,
-              "exam_question_id": 34186,
+              "exam_question_id": 38137,
               "is_right_answer": false,
               "exam_answer_medias": []
             }
           ]
         },
         {
-          "id": 34187,
-          "name": null,
+          "id": 38138,
+          "name": "<p>What does the hospital staff think about Ms. Exter&rsquo;s application?</p>",
           "order": 5,
           "is_example": false,
           "exam_question_type_code": "SINGLE_SELECTION",
           "content_difficulty_code": null,
-          "exam_question_medias": [
-            {
-              "media_format_code": "IMAGE",
-              "media_usage_code": "COVER",
-              "url": {
-                "name": "q5",
-                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-question/image/50134/q5.JPG"
-              }
-            }
-          ],
+          "exam_question_medias": [],
           "translations": {
             "suggestion": null,
-            "explanation": "The picture shows an empty street on a rainy day.\u00a0<br />\n(A) - We do not know if there is a bank, or if a car is waiting.\u00a0<br />\n(C) - We cannot be certain that people are shopping.\u00a0<br />\n(D) - There are only a few cars on the street."
+            "explanation": "The team agrees that Ms. Exter has applied too soon in her career, that she should apply again in the future.<br />\n(A) - They do not think she will make a good addition to the team - yet.<br />\n(B) - John is mostly concerned about her lack of experience, the team in general would like to see her apply again in the future.<br />\n(C) - None of the applicants have been particularly good, but she was identified as having some potential."
           },
           "exam_answers": [
             {
-              "id": 126024,
+              "id": 141560,
               "numbering": "A",
-              "name": null,
+              "name": "She will make a good addition to the team.",
               "order": 1,
-              "exam_question_id": 34187,
+              "exam_question_id": 38138,
               "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126025,
+              "id": 141561,
               "numbering": "B",
-              "name": null,
+              "name": "She lacks sufficient experience.",
               "order": 2,
-              "exam_question_id": 34187,
-              "is_right_answer": true,
+              "exam_question_id": 38138,
+              "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126026,
+              "id": 141562,
               "numbering": "C",
-              "name": null,
+              "name": "She's as good as the other applicants so far.",
               "order": 3,
-              "exam_question_id": 34187,
+              "exam_question_id": 38138,
               "is_right_answer": false,
               "exam_answer_medias": []
             },
             {
-              "id": 126027,
+              "id": 141563,
               "numbering": "D",
-              "name": null,
+              "name": "She should try again at a later date.",
               "order": 4,
-              "exam_question_id": 34187,
-              "is_right_answer": false,
-              "exam_answer_medias": []
-            }
-          ]
-        },
-        {
-          "id": 34188,
-          "name": null,
-          "order": 6,
-          "is_example": false,
-          "exam_question_type_code": "SINGLE_SELECTION",
-          "content_difficulty_code": null,
-          "exam_question_medias": [
-            {
-              "media_format_code": "IMAGE",
-              "media_usage_code": "COVER",
-              "url": {
-                "name": "q6",
-                "file_url": "https://default-prod.s3.amazonaws.com/media/exam-question/image/50136/q6.JPG"
-              }
-            }
-          ],
-          "translations": {
-            "suggestion": null,
-            "explanation": "<p>She is smiling and looking at someone. She's making a silly face so we can guess someone's taking a picture.</p>\n<p><br /> (A) - The woman is not crying.&nbsp;<br /> (C) - We cannot tell if the terrace is full or empty.&nbsp;<br /> (D) - There are no other people in the picture so we can't know.</p>"
-          },
-          "exam_answers": [
-            {
-              "id": 126028,
-              "numbering": "A",
-              "name": null,
-              "order": 1,
-              "exam_question_id": 34188,
-              "is_right_answer": false,
-              "exam_answer_medias": []
-            },
-            {
-              "id": 126029,
-              "numbering": "B",
-              "name": null,
-              "order": 2,
-              "exam_question_id": 34188,
+              "exam_question_id": 38138,
               "is_right_answer": true,
-              "exam_answer_medias": []
-            },
-            {
-              "id": 126030,
-              "numbering": "C",
-              "name": null,
-              "order": 3,
-              "exam_question_id": 34188,
-              "is_right_answer": false,
-              "exam_answer_medias": []
-            },
-            {
-              "id": 126031,
-              "numbering": "D",
-              "name": null,
-              "order": 4,
-              "exam_question_id": 34188,
-              "is_right_answer": false,
               "exam_answer_medias": []
             }
           ]
@@ -1420,14 +1376,14 @@
       },
       "planning_module": {
         "translations": {
-          "name": "Deviens un as du Listening et du Reading",
-          "slug": "deviens-un-as-du-listening-et-du-reading"
+          "name": "Dompte le listening et le Reading",
+          "slug": "dompte-le-listening-et-le-reading"
         }
       }
     },
     "remainingSeconds": null,
-    "elapsedSeconds": 0
+    "elapsedSeconds": 35
   },
-  "url": "/training/activity/20192511/content/10286",
+  "url": "/training/activity/20159695/content/11533",
   "version": "4b50dde26bcccfbfe7c7eb6143de2689"
 }
