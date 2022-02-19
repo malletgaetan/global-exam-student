@@ -80,8 +80,9 @@ const wakeUpStudent = async (page) => {
       const parsedBody = utils.cleanAndParse(ret.body)
       payload = utils.getResponsePayload(parsedBody.props.examQuestions.data)
       redirectedURL = ret.redirectURL
-      await utils.wait(utils.randBetween(5000, 6000))
+      await utils.wait(utils.randBetween(4000, 8000))
     }
+    await utils.wait(utils.randBetween(5000, 10 * 1000))
   }
 }
 
