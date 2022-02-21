@@ -3,7 +3,6 @@ import { createCursor } from "ghost-cursor"
 import StealthPlugin from "puppeteer-extra-plugin-stealth"
 import utils from "./src/utils.js"
 
-// add stealth plugin and use defaults (all evasion techniques)
 puppeteer.use(StealthPlugin())
 
 const ynovURL = "https://auth.global-exam.com/sso/cas/ynov/4594"
